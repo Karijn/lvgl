@@ -1,6 +1,7 @@
 # Changelog
 
 ## v8.1.0 (In progress)
+- few small bugfixes in demo lv_example_chart_2.py
 - added sample lv_example_list_2.py
 - lv_obj_move_up(obj) and lv_obj_move_down(obj) added. (#2461)
 - feat(example) stacked area chart lv_example_chart_8 added.
